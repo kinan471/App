@@ -1,0 +1,7 @@
+
+streamlit
+requests
+moviepy
+gtts
+spacy
+en_core_web_sm
