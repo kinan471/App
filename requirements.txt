@@ -1,6 +1,5 @@
-streamlit
-requests
-moviepy
-gtts
-spacy
-en_core_web_sm
+streamlit==1.32.2
+requests==2.31.0
+moviepy==1.0.3
+gTTS==2.5.1
+spacy==3.7.5
