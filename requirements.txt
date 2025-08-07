@@ -3,3 +3,4 @@ requests==2.31.0
 moviepy==1.0.3
 gTTS==2.5.1
 spacy==3.7.5
+pyarabic==0.6.10
